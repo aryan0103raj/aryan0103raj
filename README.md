@@ -30,7 +30,7 @@
 
 ### 📫 How to reach me
 
-<p align="center">
+<p align="left">
 <a href="mailto:aryan0103.raj@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aryan-raj-126702200/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
